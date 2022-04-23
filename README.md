@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CastleSIlver&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=CastleSIlver&fontSize=90)
 ![CastleSilver's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastleSilver&show_icons=true&theme=merko)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aysel0230)](https://solved.ac/aysel0230)
 <h3 align="center">🔱TECH STACK🔱</h3>

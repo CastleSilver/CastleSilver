@@ -1,6 +1,5 @@
 # 🍒SEONG EUN HEO🍒 
 
-![CastleSilver's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastleSilver&show_icons=true&theme=merko)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=aysel0230)](https://solved.ac/aysel0230)
 # 🔱TECH STACK🔱
 ### techs that i've used at least once

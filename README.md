@@ -6,6 +6,7 @@
 <p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCastleSilver%2Fhit-counter&count_bg=%23B792E0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true"/></a>
   <a href="mailto:aysel0230@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+  <a href="https://velog.io/@aysel0230"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a>
 </p>
 
 ![CastleSilver's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastleSilver&show_icons=true&theme=tokyonight)

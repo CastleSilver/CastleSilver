@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue&logoColor=black"/>
 </p>
 
 # 🌻ME🌻
@@ -21,4 +22,4 @@
   <a href="mailto:aysel0230@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 </p>
 
-</center
+</center>

@@ -2,6 +2,7 @@
 
 
 # HELLO, I'm SeongEun HEO🍒 
+  
 <p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCastleSilver%2Fhit-counter&count_bg=%23B792E0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true"/></a>
   <a href="mailto:aysel0230@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
@@ -12,7 +13,6 @@
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=aysel0230)](https://solved.ac/aysel0230)
 
 
-<span>
 <br/>
 
 # 🔱TECH STACK🔱
@@ -30,14 +30,12 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/>
 </p>
 
-</span>
-<span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastleSilver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</span>
 <br/>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./GitHub-Profile-3D-Contrib/profile-night-rainbow.svg)
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>

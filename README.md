@@ -34,9 +34,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastleSilver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-
-![](./GitHub-Profile-3D-Contrib/profile-night-rainbow.svg)
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>

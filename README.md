@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/>
 </p>
 
 
